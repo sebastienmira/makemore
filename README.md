@@ -2,4 +2,6 @@
 
 A repository to experiment with Neural Networks from scratch.
 
-Following Karpathy's series and experimenting around it.
+Following Karpathy's makemore and experimenting around it.
+
+First, a bigram model was implemented and more complexity will be added.
