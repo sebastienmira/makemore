@@ -1,3 +1,5 @@
+# Makemore
+
 Following Karpathy's makemore and experimenting around it.
 
 In makemore the goal is to make more elements similar to a given dataset. For example given a dataset with english names create a model that generates more names.
