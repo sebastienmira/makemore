@@ -9,3 +9,8 @@ In makemore the goal is to make more elements similar to a given dataset. For ex
 A bigram model was implemented. In a bigram model given a letter as input the next letter is predicted. 
 First, a statistical approach was implemented by analyzing the frequency of bigrams (two consequent letters) in the dataset to compute a bigram probability distribution and sample from it.
 Then, a single-layer Neural Network was trained to realize the same task.
+
+## makemore-trigram
+
+In a trigram model two letters are used to predict a third one.
+A single-layer NN was trained to realize the task and the results were significantly better than the ones produced by the bigram model.
