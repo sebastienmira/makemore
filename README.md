@@ -14,3 +14,6 @@ Then, a single-layer Neural Network was trained to realize the same task.
 
 In a trigram model two letters are used to predict a third one.
 A single-layer NN was trained to realize the task and the results were significantly better than the ones produced by the bigram model.
+
+## makemore-mlp
+
