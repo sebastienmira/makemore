@@ -35,7 +35,7 @@ cozelleana
 
 ## makemore-mlp
 
-A multi-layer perceptron with one hidden layer was implemented. 
+A multi-layer perceptron with one hidden layer was implemented along the lines of [Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 A matrix C is used to transform characters into dim-dimensional vectors (the elements of C are parameters of the model and dim is a hyperparameter of the model).
 The parameters of the model (weights, biases and the elements of the lookup table C) were randomly initialized by sampling from a uniform distribution.
 A context-size/block-size defines the size of the context used to predict the next character.
