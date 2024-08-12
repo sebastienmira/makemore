@@ -18,13 +18,9 @@ Estimated loss around 2.47
 Random sampled names:
 
 zaana
-
 kiama
-
 nnilur
-
 hizha
-
 ramar
 
 ## makemore-trigram
@@ -39,13 +35,9 @@ Estimated loss around 2.12
 Random sampled names:
 
 anne
-
 xanaydan
-
 ilamir
-
 zamae
-
 cozelleana
 
 ## makemore-mlp
@@ -70,11 +62,7 @@ Estimated validation loss: 2.07
 Random sampled names:
 
 layla
-
 ruby
-
 ozin
-
 michos
-
 luca
