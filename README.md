@@ -66,3 +66,15 @@ ruby
 ozin
 michos
 luca
+
+## makemore-mlp2
+
+Implemented Kaiming initiation. Reduces extremely-valued initiation. This allows for better and smoother training by skipping the initial phase of tuning "overconfident" parameters. 
+
+Used batch normalization.
+
+Implemented deeper networks with more layers.
+
+Diagnostic tools to check if NN is alright. Different statistics explored such as the activation and gradient distribution, update to data ratio...
+
+Results somehow similar but more consistent and optimized.
