@@ -78,3 +78,8 @@ Implemented deeper networks with more layers.
 Diagnostic tools to check if NN is alright. Different statistics explored such as the activation and gradient distribution, update to data ratio...
 
 Results somehow similar but more consistent and optimized.
+
+
+## makemore-WaveNet
+
+A wavenet along the lines of [WaveNet 2016 from DeepMind ](https://arxiv.org/abs/1609.03499).
